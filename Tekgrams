@@ -28,7 +28,7 @@ EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_TekUnderwaterBase_C",LevelT
 EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_TekUnderwaterBase_BottomEntry_C",LevelToAutoUnlock=80)
 EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_TekTrough_C",LevelToAutoUnlock=80)
 EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_TekATV_C",LevelToAutoUnlock=80)
-EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_TekBed_C",LevelToAutoUnlock=80)
+EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_TekBed_C",LevelToAutoUnlock=5)
 EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_LargeWall_Tek_C",LevelToAutoUnlock=80)
 EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_DedicatedStorage_C",LevelToAutoUnlock=80)
 EngramEntryAutoUnlocks=(EngramClassName="EngramEntry_DoubleDoor_Tek_C",LevelToAutoUnlock=80)
